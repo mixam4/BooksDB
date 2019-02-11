@@ -1,0 +1,1 @@
+Obrint "index.html" a 'localhost' es por crear la base de dades Books i realitzar tres consultes en ella.
